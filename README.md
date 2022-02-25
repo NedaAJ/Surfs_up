@@ -2,12 +2,12 @@
 A project with SQLAlchemy, Flask and Jupyter Notebook
 
 
-You can find the analysis file here: [Surfs_up_challenge](https://github.com/NedaAJ/Surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+You can find the analysis file here: [Surfs_up_challenge.ipynb](https://github.com/NedaAJ/Surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 
-![June_tempretures](Resources/June Tempretures.PNG)
+![June-Tempretures.PNG](Resources/June-Tempretures.PNG)
 
-![Dec_Tempretures.PNG](Resources/December Tempretures.PNG)
+![December-Tempretures.PNG](Resources/December-Tempretures.PNG)
 
 
 ## Contact:
